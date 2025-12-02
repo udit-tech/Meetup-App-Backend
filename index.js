@@ -163,9 +163,11 @@ app.get("/events/eventTitle/:title", async(req,res)=>{
 
 
 
-PORT = process.env.PORT
+// PORT = process.env.PORT
 
-app.listen(PORT ,()=>{
+// app.listen(PORT ,()=>{
 
-    console.log(`Server is running at port ${PORT}`)
-})
+//     console.log(`Server is running at port ${PORT}`)
+// })
+
+module.exports = app;
