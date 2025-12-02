@@ -1,0 +1,138 @@
+[
+  {
+    "eventName": "Digital Marketing Growth Summit",
+    "hostName": "GrowthX Community",
+    "eventImg": "https://images.unsplash.com/photo-1551836022-4c4c79ecde8e",
+    "eventDetails": "A meetup for marketers to learn advanced lead generation, funnels, and brand scaling.",
+    "dressCode": "Casual",
+    "ageRestriction": "18+",
+    "eventTags": ["marketing", "digital"],
+    "eventDayAndTime": "25 Feb 2025, 10:00 AM",
+    "eventLocation": "WeWork BKC, Mumbai",
+    "price": "₹999",
+    "speakerName": ["Amit Sharma", "Priya Verma"],
+    "speakerDesignation": ["Marketing Head at Zeno", "Digital Branding Coach"],
+    "speaker": [
+      {
+        "name": "Amit Sharma",
+        "designation": "Marketing Head at Zeno",
+        "image": "https://randomuser.me/api/portraits/men/11.jpg"
+      },
+      {
+        "name": "Priya Verma",
+        "designation": "Digital Branding Coach",
+        "image": "https://randomuser.me/api/portraits/women/19.jpg"
+      }
+    ]
+  },
+  {
+    "eventName": "Business Networking Mixer",
+    "hostName": "Entrepreneurs Hub",
+    "eventImg": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a",
+    "eventDetails": "Connect with founders, startup owners and investors to build business relationships.",
+    "dressCode": "Formal",
+    "ageRestriction": "21+",
+    "eventTags": ["business"],
+    "eventDayAndTime": "28 Feb 2025, 6:00 PM",
+    "eventLocation": "Taj Palace, New Delhi",
+    "price": "₹1499",
+    "speakerName": ["Karan Arora"],
+    "speakerDesignation": ["Founder - DineX"],
+    "speaker": [
+      {
+        "name": "Karan Arora",
+        "designation": "Founder - DineX",
+        "image": "https://randomuser.me/api/portraits/men/45.jpg"
+      }
+    ]
+  },
+  {
+    "eventName": "AI in Digital Businesses",
+    "hostName": "TechWave",
+    "eventImg": "https://images.unsplash.com/photo-1581092334515-31f67c431d12",
+    "eventDetails": "Explore how AI tools are transforming digital industries and automation workflows.",
+    "dressCode": "Casual",
+    "ageRestriction": "18+",
+    "eventTags": ["digital", "business"],
+    "eventDayAndTime": "5 Mar 2025, 3:00 PM",
+    "eventLocation": "Jio World Center, Mumbai",
+    "price": "₹1299",
+    "speakerName": ["Dr. Radhika Sen"],
+    "speakerDesignation": ["AI Strategist"],
+    "speaker": [
+      {
+        "name": "Dr. Radhika Sen",
+        "designation": "AI Strategist",
+        "image": "https://randomuser.me/api/portraits/women/70.jpg"
+      }
+    ]
+  },
+  {
+    "eventName": "Startup Funding Bootcamp",
+    "hostName": "AngelX Investors",
+    "eventImg": "https://images.unsplash.com/photo-1551836022-bcddb2bd4d1e",
+    "eventDetails": "Learn how to raise funds for a startup and pitch effectively to investors.",
+    "dressCode": "Smart Casual",
+    "ageRestriction": "18+",
+    "eventTags": ["business", "marketing"],
+    "eventDayAndTime": "10 Mar 2025, 11:00 AM",
+    "eventLocation": "91Springboard, Bengaluru",
+    "price": "₹1999",
+    "speakerName": ["Sahil Khurana", "Megha Kapoor"],
+    "speakerDesignation": ["Investor & VC Partner", "Startup Pitch Coach"],
+    "speaker": [
+      {
+        "name": "Sahil Khurana",
+        "designation": "Investor & VC Partner",
+        "image": "https://randomuser.me/api/portraits/men/32.jpg"
+      },
+      {
+        "name": "Megha Kapoor",
+        "designation": "Startup Pitch Coach",
+        "image": "https://randomuser.me/api/portraits/women/41.jpg"
+      }
+    ]
+  },
+  {
+    "eventName": "Social Media Mastery Workshop",
+    "hostName": "BrandCraft Studio",
+    "eventImg": "https://images.unsplash.com/photo-1503428593586-e225b39bddfe",
+    "eventDetails": "Learn how to create viral content and build brand presence on social platforms.",
+    "dressCode": "Casual",
+    "ageRestriction": "18+",
+    "eventTags": ["marketing", "digital"],
+    "eventDayAndTime": "16 Mar 2025, 1:00 PM",
+    "eventLocation": "Phoenix Mart, Pune",
+    "price": "₹799",
+    "speakerName": ["Ritesh Gupta"],
+    "speakerDesignation": ["Content Strategy Expert"],
+    "speaker": [
+      {
+        "name": "Ritesh Gupta",
+        "designation": "Content Strategy Expert",
+        "image": "https://randomuser.me/api/portraits/men/67.jpg"
+      }
+    ]
+  },
+  {
+    "eventName": "Business Automation for Agencies",
+    "hostName": "AgencyFlow",
+    "eventImg": "https://images.unsplash.com/photo-1558403194-611308249627",
+    "eventDetails": "A roadmap for automating service-based businesses to scale profit and reduce workload.",
+    "dressCode": "Business Casual",
+    "ageRestriction": "18+",
+    "eventTags": ["business", "digital"],
+    "eventDayAndTime": "22 Mar 2025, 4:00 PM",
+    "eventLocation": "Hotel Westin, Hyderabad",
+    "price": "₹1799",
+    "speakerName": ["Nidhi Talwar"],
+    "speakerDesignation": ["Business Automation Consultant"],
+    "speaker": [
+      {
+        "name": "Nidhi Talwar",
+        "designation": "Business Automation Consultant",
+        "image": "https://randomuser.me/api/portraits/women/56.jpg"
+      }
+    ]
+  }
+]
