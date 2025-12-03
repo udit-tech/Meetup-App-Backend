@@ -67,7 +67,7 @@ async function readAllMeetups(){
     }
 }
 
-app.get("/meetups",async(req,res)=>{
+app.get("/events",async(req,res)=>{
 
     try{
         const allMeetups = await readAllMeetups()
